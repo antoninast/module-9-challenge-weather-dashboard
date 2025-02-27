@@ -10,16 +10,16 @@ The Weather Dashboard website provides an intuitive platform for users to check 
 In addition, the website automatically stores the cities you search for in your search history, allowing for quick and convenient access to previously checked locations. If you no longer wish to keep a particular city in your history, you have the option to delete it, ensuring your search history remains relevant and streamlined. This feature makes it easier to manage and navigate between multiple cities without the need to re-enter their names each time.
 
 1. Enter the name of the city to view the weather forecast.
-![User Input](image-4.png)
+![User Input](./assets/images/image-4.png)
 
 2. View the current weather conditions and the forecast for the next five days.
-![Weather today and in the next 5 days](image-1.png)
+![Weather today and in the next 5 days](./assets/images/image-1.png)
 
 3. Search History.
-![Search History](image-2.png)
+![Search History](./assets/images/image-2.png)
 
 4. The "Delete" button removes the city from your search history.
-![Delete button](image-3.png)
+![Delete button](./assets/images/image-3.png)
 
 ## Installation and setup
 1. Clone the repo
